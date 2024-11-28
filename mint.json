@@ -1,18 +1,18 @@
 {
   "$schema": "https://mintlify.com/schema.json",
-  "name": "Starter Kit",
+  "name": "Maple Ontario Information Centre",
   "logo": {
-    "dark": "/logo/dark.svg",
-    "light": "/logo/light.svg"
+    "dark": "https://res.cloudinary.com/dmgrk6mbc/image/upload/role_icon_6_nlcc1n.png",
+    "light": "https://res.cloudinary.com/dmgrk6mbc/image/upload/role_icon_15_xt2okf.png"
   },
-  "favicon": "/favicon.svg",
+  "favicon": "/maplewhite.png",
   "colors": {
-    "primary": "#0D9373",
-    "light": "#07C983",
-    "dark": "#0D9373",
+    "primary": "#d61b1e",
+    "light": "#d61b1e",
+    "dark": "#d61b1e",
     "anchors": {
-      "from": "#0D9373",
-      "to": "#07C983"
+      "from": "#981315",
+      "to": "#981315"
     }
   },
   "topbarLinks": [
@@ -27,8 +27,8 @@
   },
   "tabs": [
     {
-      "name": "API Reference",
-      "url": "api-reference"
+      "name": "Community Rules",
+      "url": "rules"
     }
   ],
   "anchors": [
@@ -50,7 +50,7 @@
   ],
   "navigation": [
     {
-      "group": "Get Started",
+      "group": "Information",
       "pages": [
         "introduction",
         "quickstart",
