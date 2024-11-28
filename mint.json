@@ -4,7 +4,7 @@
   "theme": "quill",
   "logo": {
     "dark": "https://res.cloudinary.com/dmgrk6mbc/image/upload/role_icon_6_nlcc1n.png",
-    "light": "https://res.cloudinary.com/dmgrk6mbc/image/upload/role_icon_15_xt2okf.png"
+    "light": "https://res.cloudinary.com/dmgrk6mbc/image/upload/role_icon_15_xt2okf.png",
     "href": "https://starter-quill.mintlify.app/"
   },
   "favicon": "/maplewhite.png",
