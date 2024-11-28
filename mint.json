@@ -67,7 +67,8 @@
     {
       "group": "Community Rules",
       "pages": [
-        "rules/discord-rules"
+        "rules/discord-rules",
+        "rules/banned-items/banned-vehicles"
       ]
     },
     {
