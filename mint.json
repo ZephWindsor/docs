@@ -1,11 +1,11 @@
 {
   "$schema": "https://mintlify.com/schema.json",
   "name": "Maple Ontario Information Centre",
-  "theme": "quill",
+  "theme": "prism",
   "logo": {
     "dark": "https://res.cloudinary.com/dmgrk6mbc/image/upload/role_icon_6_nlcc1n.png",
     "light": "https://res.cloudinary.com/dmgrk6mbc/image/upload/role_icon_15_xt2okf.png",
-    "href": "https://starter-quill.mintlify.app/"
+    "href": "https://starter-prism.mintlify.app/"
   },
   "favicon": "/maplewhite.png",
   "colors": {
