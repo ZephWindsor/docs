@@ -1,6 +1,7 @@
 {
   "$schema": "https://mintlify.com/schema.json",
   "name": "Maple Ontario Information Centre",
+  "theme": "quill",
   "logo": {
     "dark": "https://res.cloudinary.com/dmgrk6mbc/image/upload/role_icon_6_nlcc1n.png",
     "light": "https://res.cloudinary.com/dmgrk6mbc/image/upload/role_icon_15_xt2okf.png"
@@ -10,10 +11,6 @@
     "primary": "#d61b1e",
     "light": "#d61b1e",
     "dark": "#d61b1e",
-    "anchors": {
-      "from": "#981315",
-      "to": "#981315"
-    }
   },
   "topbarLinks": [
     {
