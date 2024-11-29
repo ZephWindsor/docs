@@ -53,7 +53,8 @@
     {
       "group": "Banned Items",
       "pages": [
-        "rules/banned-items/banned-vehicles"
+        "rules/banned-items/banned-vehicles",
+        "rules/banned-items/banned-weapons"
       ]
     }
   ],
