@@ -52,7 +52,7 @@
     },
     {
       "group": "Banned Items",
-      "pages:" [
+      "pages": [
         "rules/banned-items/banned-vehicles"
       ]
     }
