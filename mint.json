@@ -47,7 +47,12 @@
       "group": "Community Rules",
       "pages": [
         "rules/in-game-rules",
-        "rules/discord-rules",
+        "rules/discord-rules"
+      ]
+    },
+    {
+      "group": "Banned Items",
+      "pages:" [
         "rules/banned-items/banned-vehicles"
       ]
     }
